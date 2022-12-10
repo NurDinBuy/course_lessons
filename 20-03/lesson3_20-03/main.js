@@ -58,7 +58,7 @@
 // }
 // init()
 
-
+12
 // switch case
 
 // var userAge = Number(prompt('Введите ваш возраст: '))
@@ -114,3 +114,4 @@
 //     return console.log(some)
 // }
 // inner()
+
