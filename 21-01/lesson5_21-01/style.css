@@ -52,3 +52,32 @@ input {
     font-size: 28px;
     font-family: "Franklin Gothic Heavy";
 }
+
+.delete_button {
+    width: 150px;
+    height: 40px;
+    border: 2px solid white;
+    cursor: pointer;
+    background: darkred;
+    font-size: 20px;
+    border-radius: 20px;
+    color: white;
+}
+
+.edit_button {
+    width: 150px;
+    height: 40px;
+    border: 2px solid white;
+    cursor: pointer;
+    background: yellow;
+    font-size: 20px;
+    border-radius: 20px;
+    color: white;
+}
+
+.buttons_div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 320px;
+}
