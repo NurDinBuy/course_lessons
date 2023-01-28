@@ -1,0 +1,32 @@
+/*canvas {*/
+/*    display: block;*/
+/*    margin: 0 auto;*/
+/*}*/
+
+/*body {*/
+/*    display: flex;*/
+/*    align-items: center;*/
+/*    justify-content: center;*/
+/*    position: relative;*/
+/*}*/
+
+/*.modal {*/
+/*    width: 500px;*/
+/*    height: 300px;*/
+/*    background: rgba(0, 0, 0, 0.5);*/
+/*    position: absolute;*/
+/*}*/
+
+.card {
+    width: 200px;
+    padding: 5px;
+    border: 1px solid;
+    border-radius: 8px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
